@@ -77,3 +77,8 @@ For detailed discussion, see the full report here:
   
 Author: Sohitha Kommineni.  
 Libraries: NumPy, pandas, SciPy, Matplotlib, scikit-learn, PyTorch, PyMC, ArviZ.
+
+---
+
+## 📜 License
+This project is open-source and licensed under MIT – feel free to use it.
