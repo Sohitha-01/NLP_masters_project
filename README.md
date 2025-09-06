@@ -1,4 +1,4 @@
-# NLP Masters Project — Bayesian Evolution & Text Classification
+# NLP Project — Bayesian Evolution & Text Classification
 
 This repository contains two self-contained Jupyter notebooks developed for a graduate-level NLP/ML course.  
 It covers (1) a **Bayesian discrete evolution model** for longitudinal frequency data and (2) **text classification** (including a neural model) plus an **orthography modeling** mini-task.
